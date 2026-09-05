@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Ow2Esp.Core</RootNamespace>
+    <AssemblyName>Ow2Esp.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
